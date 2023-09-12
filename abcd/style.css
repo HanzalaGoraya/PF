@@ -1,0 +1,126 @@
+
+  
+  .right{
+    float : right;
+  }
+  .left{
+    float:left;
+  }
+  body{
+    padding-left: 30px;
+    padding-right: 30px;
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: linear-gradient(to top, #060413, #0a0328); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-decoration:none;
+    
+    ;
+  }
+
+  .color1{
+    color: #D9D9D9;
+  }
+  .img{
+    background-color: #ffffff;
+}
+.bgcolor1{
+    background-color: #e8e7ee;
+}
+ 
+.headingone{
+    width: 495.0009765625px;
+    height: 140px;
+    font-family: Outfit;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.card1{width: Fill (1,140px);
+height: Hug (467px);
+gap: 150px;}
+
+.card2{
+    width: Fill (495px);
+height: Hug (471px);
+gap: 25px;
+
+}
+.card3{
+    width: Fill (1,140px);
+height: Hug (483px);
+padding: 20px 0px 20px 0px;
+gap: 150px;
+
+}
+
+.heading2{font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+width: 495.0009765625px;
+height: 55px;
+}
+
+heading2a{
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+width: 495.0009765625px;
+height: 55px;
+
+
+}
+.btn1{
+    width: 232.50048828125px;
+height: 60px;
+border-radius: 30px;
+border: 1px;
+border: 1px solid #105253;
+}
+
+.featuredon{
+width: auto;
+height: 42px;
+font-family: Roboto;
+font-size: 30px;
+font-weight: 400;
+line-height: 41px;
+letter-spacing: 0em;
+text-align: center;
+}
+.h1ex{
+    width: auto;
+    height: 70px;
+    top: 2424.6416015625px;
+font-family: Outfit;
+font-size: 64px;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: center;
+
+    text-align: center;
+    }
+.companynames{
+    width : auto;
+height: 103.6758041381836px;
+text-align: center;
+vertical-align: auto;
+
+
+}
+.margin{
+    margin-left : "50px";
+}
+.rem{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: left;
+}
